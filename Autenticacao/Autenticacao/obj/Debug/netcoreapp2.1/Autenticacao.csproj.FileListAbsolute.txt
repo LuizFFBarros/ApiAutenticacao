@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.deps.json
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.runtimeconfig.json
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.runtimeconfig.dev.json
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.dll
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\bin\Debug\netcoreapp2.1\Autenticacao.pdb
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.csprojAssemblyReference.cache
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.RazorAssemblyInfo.cache
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.RazorAssemblyInfo.cs
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.AssemblyInfo.cs
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.RazorTargetAssemblyInfo.cache
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.dll
+C:\Users\Luiz\Documents\Estudos c#\Projeto Autenticacao\Autenticacao\Autenticacao\obj\Debug\netcoreapp2.1\Autenticacao.pdb
