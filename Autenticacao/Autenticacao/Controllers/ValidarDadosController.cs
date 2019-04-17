@@ -12,11 +12,21 @@ namespace Autenticacao.Controllers
     [ApiController]
     public class ValidarDadosController : ControllerBase
     {
+
+        List<Usuario> usuarios = new List<Usuario>
+        {
+            new Usuario{ Codigo = 1, Nome = "Luiz"},
+            new Usuario{ Codigo = 2, Nome = "Augusto"},
+            new Usuario{ Codigo = 3, Nome = "Jose"},
+        };
+
         [HttpGet]
         [Route("usuario")]
         public ActionResult<IEnumerable<string>> AutenticarUsuario([FromQuery] Usuario usuario)
         {
-            return Ok();
+
+            return Ok(usuarios.Any(a =>a.Codigo == usuario.Codigo));
         }
     }
+
 }
