@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Autenticacao.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("v1/api/ValidarDados")]
     [ApiController]
     public class ValidarDadosController : ControllerBase
     {
@@ -21,11 +21,13 @@ namespace Autenticacao.Controllers
         };
 
         [HttpGet]
-        [Route("usuario")]
-        public ActionResult<IEnumerable<string>> AutenticarUsuario([FromQuery] Usuario usuario)
+        [Route("usuarios/{codigo}")]
+        public ActionResult<IEnumerable<string>> AutenticarUsuario(int codigo)
         {
-
-            return Ok(usuarios.Any(a =>a.Codigo == usuario.Codigo));
+            var existe = usuarios.Any(a => a.Codigo == codigo);
+            if(existe)
+                return Ok();
+            return NotFound("Usuario não existe");
         }
     }
 
